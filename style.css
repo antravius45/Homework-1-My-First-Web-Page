@@ -1,0 +1,70 @@
+
+/* Style the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f6fc;
+    color: #243447;
+    margin: 30px;
+    padding: 20px;
+}
+
+/* ID selector */
+#title {
+    color: #ffffff;
+    background-color: #176b87;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 25px;
+    border: 3px solid #0b4558;
+    border-radius: 10px;
+}
+
+/* Class selector */
+.intro {
+    background-color: #d9f0f5;
+    color: #17465a;
+    padding: 18px;
+    margin-bottom: 25px;
+    border-left: 5px solid #176b87;
+    border-radius: 6px;
+    line-height: 1.6;
+}
+
+/* Style the content sections */
+.content-box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #b7d9e5;
+    border-radius: 10px;
+}
+
+/* Type selector */
+h2 {
+    color: #147d64;
+    margin-bottom: 12px;
+    border-bottom: 2px solid #b7d9e5;
+    padding-bottom: 8px;
+}
+
+/* Type selector */
+p {
+    line-height: 1.6;
+}
+
+/* Type selector */
+li {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* Class selector */
+.footer {
+    background-color: #176b87;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 25px;
+    border: 2px solid #0b4558;
+    border-radius: 8px;
+}
